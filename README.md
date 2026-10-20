@@ -7,8 +7,11 @@ My technical skill set includes HTML, PHP, JavaScript, SQL, Visual Basic, Excel,
 **Some of my notable projects include:**
 
 MindCare: A mental health support chatbot designed to provide accessible guidance and support.
+
 LearnGap: An adaptive Grade 8 mathematics learning prototype aimed at improving educational outcomes.
+
 Inventory Analysis Tool: A browser-based solution for analyzing and managing inventory data.
+
 Business Studio: Content generation tool that helps business owners post about their businesses to attract customers, get feedback comments and create logos
 
 I have completed training in Google IT Support, Cisco CCNAv7, Cisco IT Essentials, and Networking Fundamentals, and I am committed to expanding my expertise in cloud technologies, cybersecurity, networking, and software development.
@@ -16,6 +19,7 @@ I have completed training in Google IT Support, Cisco CCNAv7, Cisco IT Essential
 Always keen learn new technologies or building projects, I enjoy writing, fitness, and exploring innovative ways technology can make a positive impact.
 
 **Technologies & Tools**
+
 Plain Text
 HTML | CSS | JavaScript | PHP | SQL
 Linux | Windows | Networking | IT Support
